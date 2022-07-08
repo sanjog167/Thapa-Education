@@ -42,8 +42,9 @@ function Save() {
                 <div className="offer1_text ms-4 mt-4">
                   <h5 className="fw-800">Industry Expert Instructor</h5>
                   <p className="mt-2">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                    eiusmoded tempor incididunt dolore magna aliqua.
+                  Understand and use the fundamentals of the SAS programming language
+
+
                   </p>
                 </div>
               </div>
@@ -53,8 +54,9 @@ function Save() {
                   <h5 className="fw-800">Up-to-Date Course Content
 </h5>
                   <p className="mt-2">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                    eiusmoded tempor incididunt dolore magna aliqua.
+                  Access different types of data (SAS, Excel, or text),      then explore and prepare the data 
+
+
                   </p>
                 </div>
               </div>
@@ -63,8 +65,8 @@ function Save() {
                 <div className="offer1_text ms-4 mt-4">
                   <h5 className="fw-800">Biggest Student Community</h5>
                   <p className="mt-2">
-                    Lorem ipsum dolor sit amet, consectetur adipiscing elit,
-                    eiusmoded tempor incididunt dolore magna aliqua.
+                  Explore any interest or trending topic, take prerequisites, and advance your skills
+
                   </p>
                 </div>
               </div>

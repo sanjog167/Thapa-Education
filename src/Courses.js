@@ -3,6 +3,10 @@ import th1 from "../src/Images/th1.webp";
 import th2 from "../src/Images/th2.webp";
 import th3 from "../src/Images/th3.webp";
 import th4 from "../src/Images/th4.webp";
+import th5 from "../src/Images/th5.webp";
+import th6 from "../src/Images/th6.webp";
+import th7 from "../src/Images/th7.webp";
+import th8 from "../src/Images/th8.webp";
 
 function Courses() {
   return (
@@ -137,7 +141,7 @@ function Courses() {
             <a href='https://www.youtube.com/watch?v=-9ZPBAcjmh4' target="_blank">
               <div className='courses_CardsDiv'>
               <div className='couses_CardsImg'>
-                    <img src='https://i.ytimg.com/an_webp/jEH9kc5L628/mqdefault_6s.webp?du=3000&sqp=CITLn5YG&rs=AOn4CLBHiYFMO1NP72fyaaAhNjxwQua2Iw' alt='' className='w-100' />
+                    <img src={th5} alt='' className='w-100' />
                 </div>
                 <div className="courses_CardsContent pt-4">
                   <p className='fw-800'>
@@ -162,7 +166,7 @@ function Courses() {
             <a href='https://www.youtube.com/watch?v=-9ZPBAcjmh4' target="_blank">
               <div className='courses_CardsDiv'>
               <div className='couses_CardsImg'>
-                    <img src='https://i.ytimg.com/an_webp/I8t0bgYOQ_o/mqdefault_6s.webp?du=3000&sqp=CPSpn5YG&rs=AOn4CLBsWSjqDzRvjffoM48rCy1cQ0_xTQ' alt='' className='w-100' />
+                    <img src={th6} alt='' className='w-100' />
                 </div>
                 <div className="courses_CardsContent pt-4">
                   <p className='fw-800'>
@@ -187,7 +191,7 @@ function Courses() {
             <a href='https://www.youtube.com/watch?v=-9ZPBAcjmh4' target="_blank">
               <div className='courses_CardsDiv'>
               <div className='couses_CardsImg'>
-                    <img src='https://i.ytimg.com/an_webp/F9gZkfFIh9w/mqdefault_6s.webp?du=3000&sqp=CLjZn5YG&rs=AOn4CLC0J9UDeJVJePC0_qLUoo09zUpbzQ' alt='' className='w-100' />
+                    <img src={th7} alt='' className='w-100' />
                 </div>
                 <div className="courses_CardsContent pt-4">
                   <p className='fw-800'>
@@ -211,7 +215,7 @@ function Courses() {
             <a href='https://www.youtube.com/watch?v=-9ZPBAcjmh4' target="_blank">
               <div className='courses_CardsDiv'>
               <div className='couses_CardsImg'>
-                    <img src='https://i.ytimg.com/an_webp/cs0e4IbpaNw/mqdefault_6s.webp?du=3000&sqp=CLTYn5YG&rs=AOn4CLC8GciyctsrWfRgHaO_UKfoI-NRoA' alt='' className='w-100' />
+                    <img src={th8} alt='' className='w-100' />
                 </div>
                 <div className="courses_CardsContent pt-4">
                   <p className='fw-800'>
@@ -354,7 +358,7 @@ function Courses() {
             <a href='https://www.youtube.com/watch?v=-9ZPBAcjmh4' target="_blank">
               <div className='courses_CardsDiv'>
               <div className='couses_CardsImg'>
-                    <img src='https://i.ytimg.com/an_webp/jEH9kc5L628/mqdefault_6s.webp?du=3000&sqp=CITLn5YG&rs=AOn4CLBHiYFMO1NP72fyaaAhNjxwQua2Iw' alt='' className='w-100' />
+                    <img src={th5} alt='' className='w-100' />
                 </div>
                 <div className="courses_CardsContent pt-4">
                   <p className='fw-800'>
@@ -379,7 +383,7 @@ function Courses() {
             <a href='https://www.youtube.com/watch?v=-9ZPBAcjmh4' target="_blank">
               <div className='courses_CardsDiv'>
               <div className='couses_CardsImg'>
-                    <img src='https://i.ytimg.com/an_webp/I8t0bgYOQ_o/mqdefault_6s.webp?du=3000&sqp=CPSpn5YG&rs=AOn4CLBsWSjqDzRvjffoM48rCy1cQ0_xTQ' alt='' className='w-100' />
+                    <img src={th6} alt='' className='w-100' />
                 </div>
                 <div className="courses_CardsContent pt-4">
                   <p className='fw-800'>
@@ -404,7 +408,7 @@ function Courses() {
             <a href='https://www.youtube.com/watch?v=-9ZPBAcjmh4' target="_blank">
               <div className='courses_CardsDiv'>
               <div className='couses_CardsImg'>
-                    <img src='https://i.ytimg.com/an_webp/F9gZkfFIh9w/mqdefault_6s.webp?du=3000&sqp=CLjZn5YG&rs=AOn4CLC0J9UDeJVJePC0_qLUoo09zUpbzQ' alt='' className='w-100' />
+                    <img src={th7} alt='' className='w-100' />
                 </div>
                 <div className="courses_CardsContent pt-4">
                   <p className='fw-800'>
@@ -428,7 +432,7 @@ function Courses() {
             <a href='https://www.youtube.com/watch?v=-9ZPBAcjmh4' target="_blank">
               <div className='courses_CardsDiv'>
               <div className='couses_CardsImg'>
-                    <img src='https://i.ytimg.com/an_webp/cs0e4IbpaNw/mqdefault_6s.webp?du=3000&sqp=CLTYn5YG&rs=AOn4CLC8GciyctsrWfRgHaO_UKfoI-NRoA' alt='' className='w-100' />
+                    <img src={th8} alt='' className='w-100' />
                 </div>
                 <div className="courses_CardsContent pt-4">
                   <p className='fw-800'>

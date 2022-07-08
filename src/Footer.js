@@ -16,7 +16,7 @@ function Footer() {
               <div className="row">
                 <div className="col-lg-4 text-start">
                   <div>
-                    <h5 className="fs-22 fw-800">AR Shakir</h5>
+                    <h5 className="fs-22 fw-800">THAPA EDUCATION</h5>
                     <p className="mt-4 mb-4 left__content lh-29 w-213">
                       Finance helps companies manage payments easily.
                     </p>

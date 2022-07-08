@@ -255,6 +255,12 @@ ul {
   --bs-gutter-x: 8rem;
 }
 
+.navbar-brand img{
+  width: 250px;
+  height: 90px;
+  object-fit: contain;
+}
+
 
 .object-cover {
   object-fit: cover;
@@ -1565,7 +1571,7 @@ footer hr {
 
 .MuiSwitch-root {
   position: absolute !important;
-  top: 13px;
+  top: 40px;
   right: 0;
   z-index: 999 !important;
 }
@@ -1710,7 +1716,7 @@ footer hr {
 
   .MuiSwitch-root {
     right: 12%;
-    top: 9px;
+    top: 40px;
   }
 
   .faqMail .MuiButton-root {
@@ -1949,7 +1955,7 @@ display: none;
   padding-top: 150px !important;
 }
 .bgGradient {
-  padding-top: 100px;
+  padding-top: 150px;
 }
 .feature__Cards .Card1:nth-child(1)::after {
 
@@ -2020,6 +2026,13 @@ display: none;
   .h-790 {
     height: 648px;
 }
+.fs-78 {
+  font-size: 50px;
+}
+
+.nav-link:hover {
+  color: #fff !important;
+}
 .px-xs-0{
   padding: 0; 
 }
@@ -2028,7 +2041,6 @@ display: none;
 }
 .boxContainer {
   left: 0;
-max-width: 100%;
 }
 .inBanner::after {
   height: 60px;
@@ -2053,6 +2065,9 @@ display: none;
 .statsSection::after {
   z-index: -1;
   opacity: 0.4;
+}
+.sticktop {
+  animation: initial;
 }
 }
 

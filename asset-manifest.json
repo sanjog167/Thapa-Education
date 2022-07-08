@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/Thapa-Education/static/css/main.25ceb8eb.css",
+    "main.js": "/Thapa-Education/static/js/main.1c28d3c4.js",
+    "static/js/787.febcb70c.chunk.js": "/Thapa-Education/static/js/787.febcb70c.chunk.js",
+    "static/media/bannerImage.png": "/Thapa-Education/static/media/bannerImage.9a7e1e3ea42a57d8072f.png",
+    "static/media/b1.png": "/Thapa-Education/static/media/b1.9d03adbf0c29a4e886dc.png",
+    "static/media/zoomtop.png": "/Thapa-Education/static/media/zoomtop.76a5099a6cb6c6b180e1.png",
+    "static/media/t1.png": "/Thapa-Education/static/media/t1.c907205830b5696a83f9.png",
+    "static/media/b2.png": "/Thapa-Education/static/media/b2.2224506d95a131d4c4b9.png",
+    "static/media/b3.png": "/Thapa-Education/static/media/b3.c038065b5eb4777fd083.png",
+    "static/media/b4.png": "/Thapa-Education/static/media/b4.b9c2b598b0062c99fd94.png",
+    "static/media/t2.png": "/Thapa-Education/static/media/t2.eb5e44da70560f378cb4.png",
+    "static/media/gradbg.jpg": "/Thapa-Education/static/media/gradbg.b0f3107e08d8e4efdbf1.jpg",
+    "static/media/t3.webp": "/Thapa-Education/static/media/t3.d4d02d389299446f0984.webp",
+    "static/media/trophy2.png": "/Thapa-Education/static/media/trophy2.e437a9cf8c8c32ed849e.png",
+    "static/media/th1.webp": "/Thapa-Education/static/media/th1.d0b00a75bbff77c91ab0.webp",
+    "static/media/th3.webp": "/Thapa-Education/static/media/th3.76c9e7eb2dd1588d5050.webp",
+    "static/media/th2.webp": "/Thapa-Education/static/media/th2.6655f74b9c1c948dacd3.webp",
+    "static/media/book.png": "/Thapa-Education/static/media/book.4e997daee72943514ca1.png",
+    "static/media/th4.webp": "/Thapa-Education/static/media/th4.6770518a53508a284ae1.webp",
+    "static/media/total.PNG": "/Thapa-Education/static/media/total.96d6187cbcf34daa7c26.PNG",
+    "static/media/logo.svg": "/Thapa-Education/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Thapa-Education/index.html",
+    "main.25ceb8eb.css.map": "/Thapa-Education/static/css/main.25ceb8eb.css.map",
+    "main.1c28d3c4.js.map": "/Thapa-Education/static/js/main.1c28d3c4.js.map",
+    "787.febcb70c.chunk.js.map": "/Thapa-Education/static/js/787.febcb70c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.25ceb8eb.css",
+    "static/js/main.1c28d3c4.js"
+  ]
+}

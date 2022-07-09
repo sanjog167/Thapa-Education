@@ -23,7 +23,7 @@ function Brand() {
     <div className="container">
       <div className="boxContainer ">
       <h5 className="mb-0 text-center skewback">
-    Learn from <span class="bigNumber ps-2">1700+</span> leading universities and companies with Coursera Plus
+    Learn from <span class="bigNumber ps-2">1700+</span> leading universities and companies with Thapa Education
 
       </h5>
       </div>
@@ -48,7 +48,7 @@ function Brand() {
         className="mySwiper"
       >
         <SwiperSlide>
-        <BrandData image={b1} />
+        <BrandData image={b1} /> 
         </SwiperSlide>
 
         <SwiperSlide>

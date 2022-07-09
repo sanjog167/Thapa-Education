@@ -18,7 +18,7 @@ function Footer() {
                   <div>
                     <h5 className="fs-22 fw-800">THAPA EDUCATION</h5>
                     <p className="mt-4 mb-4 left__content lh-29 w-213">
-                      Finance helps companies manage payments easily.
+                    We envision a world where anyone, anywhere has the power to transform their life through learning.
                     </p>
                     <div className="social__Icons d-flex align-items-center">
                       <img src={linkedin} alt="" />
@@ -95,7 +95,7 @@ function Footer() {
                   <Button variant="contained">Subscribe</Button>
                 </div>
                 <p className="mt-4 text-lightgray opacity5">*  Will send you weekly updates for your better
-finance management.</p>
+Courses management.</p>
               </div>
             </div>
           </div>

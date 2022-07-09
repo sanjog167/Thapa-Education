@@ -90,35 +90,35 @@ function Navbar() {
               <a
                 className="nav-link position-relative active text-black"
                 aria-current="page"
-                href="#"
+                href="#"  onClick={toggleBar}
               >
                 Home
               </a>
             </li>
             <li className="nav-item mr-26">
-              <a className="nav-link position-relative text-black" href="#about">
+              <a className="nav-link position-relative text-black" href="#about" onClick={toggleBar}> 
                 About 
               </a>
             </li>
             <li className="nav-item mr-26">
-              <a className="nav-link position-relative text-black" href="#popular">
+              <a className="nav-link position-relative text-black" href="#popular" onClick={toggleBar}>
                 Popular Topics
               </a>
             </li>
             <li className="nav-item mr-26">
-              <a className="nav-link position-relative text-black" href="#courses">
+              <a className="nav-link position-relative text-black" href="#courses" onClick={toggleBar}>
                 Courses
               </a>
             </li>
             <li className="nav-item">
-              <a className="nav-link position-relative text-black" href="#blogs">
+              <a className="nav-link position-relative text-black" href="#blogs" onClick={toggleBar}>
                 Blogs
               </a>
             </li>
             <ul className="d-flex flex-column align-items-start ms-0 pl-0">
-            <Button variant="outlined" style={{borderColor: "#fff", color: "#fff", marginBottom: "20px"}}>Sign In</Button>
+            <Button variant="outlined" onClick={toggleBar} style={{borderColor: "#fff", color: "#fff", marginBottom: "20px"}}>Sign In</Button>
             <a href="#startnow">
-            <Button variant="contained" style={{backgroundColor: "white"}}>Start Free</Button>
+            <Button variant="contained" onClick={toggleBar} style={{backgroundColor: "white"}}>Start Free</Button>
 
             </a>
 
